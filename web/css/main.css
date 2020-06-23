@@ -1,0 +1,56 @@
+body {
+    background-color: #ddd;
+}
+
+h2 {
+    font-style: italic;
+}
+
+#section-header {
+    padding: 20px 0 10px 0;
+}
+
+#section-form {
+}
+
+#section-results {
+}
+
+#section-results .progress,
+#section-results .progress .progress-bar {
+    height: 25px;
+}
+
+#section-results .list .key {
+    color: blue;
+    font-weight: bold;
+}
+
+#section-results .list .name {
+    color: green;
+    font-weight: bold;
+}
+
+#section-results .list .value {
+    color: red;
+    font-weight: bold;
+}
+
+#section-student {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#section-student p {
+    margin: 0;
+}
+
+#section-student span {
+    margin: 10px;
+}
